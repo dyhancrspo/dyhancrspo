@@ -1,12 +1,12 @@
 ### Hello World!, I'm Dyhan 👋
 
-## I'm a Front End Developer
+## I'm a Front-End Developer - UI/UX Designer
 
-- 🔭 I’m currently working on one of Syaria Bank as Front-End Developer!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Contribute more to projects in my area
-- ⚡ Fun fact: I love tea, cats and fishs
+- 🔭 I’m currently working in one of Sharia Banks as a Front-End Developer! 😎
+- 🌱 I’m currently learning everything, especially Web/Mobile Development and also UI/UX Design 🤣🤣🤣
+- 👯 I’m looking to collaborate with other developers 💥🔥💫
+- 🥅 2021 Goals: Conquer the World! 🐱
+- ⚡ Fun fact: I love tea 🍵
 
 ### Connect with me:
 
